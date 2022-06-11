@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'VerdanaPro';
+  font-weight: normal;
+  src: url(./fonts/VerdanaPro-Regular.woff2) format("woff2"),
+       url(./fonts/VerdanaPro-Regular.woff) format("woff");
+}
+
+@font-face {
+  font-family: 'VerdanaPro';
+  font-weight: 700;
+  src: url(./fonts/VerdanaPro-Bold.woff2) format("woff2"),
+       url(./fonts/VerdanaPro-Bold.woff) format("woff");
+}

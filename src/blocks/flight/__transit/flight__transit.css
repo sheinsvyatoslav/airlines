@@ -1,0 +1,29 @@
+.flight__transit {
+  color: #ffb168;
+  text-align: center;
+  font-size: 16px;
+  line-height: 1.2;
+  letter-spacing: -1px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flight__transit::before {
+  content: '';
+  height: 1px;
+  width: 213px;
+  background-color: #a2a2a2;
+  display: block;
+  margin-right: 10px;
+}
+
+.flight__transit::after {
+  content: '';
+  height: 1px;
+  width: 213px;
+  background-color: #a2a2a2;
+  display: block;
+  margin-left: 10px;
+}
+

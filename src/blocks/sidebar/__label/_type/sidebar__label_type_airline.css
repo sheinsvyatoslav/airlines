@@ -1,0 +1,7 @@
+.sidebar__label_type_airline {
+  margin-right: 7px;
+  max-width: 140px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

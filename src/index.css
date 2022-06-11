@@ -1,0 +1,45 @@
+@import url(./vendor/normalize.css);
+@import url(./vendor/fonts.css);
+
+@import url(./blocks/root/root.css);
+
+@import url(./blocks/content/content.css);
+
+@import url(./blocks/sidebar/sidebar.css);
+@import url(./blocks/sidebar/__fieldset/sidebar__fieldset.css);
+@import url(./blocks/sidebar/__fieldset/_type/sidebar__fieldset_type_sort.css);
+@import url(./blocks/sidebar/__fieldset/_type/sidebar__fieldset_type_filter.css);
+@import url(./blocks/sidebar/__fieldset/_type/sidebar__fieldset_type_price.css);
+@import url(./blocks/sidebar/__fieldset-name/sidebar__fieldset-name.css);
+@import url(./blocks/sidebar/__label/sidebar__label.css);
+@import url(./blocks/sidebar/__label/_type/sidebar__label_type_price.css);
+@import url(./blocks/sidebar/__label/_type/sidebar__label_type_airline.css);
+@import url(./blocks/sidebar/__input/sidebar__input.css);
+@import url(./blocks/sidebar/__label-container/sidebar__label-container.css);
+@import url(./blocks/sidebar/__price/sidebar__price.css);
+
+@import url(./blocks/flights/flights.css);
+
+@import url(./blocks/flight-item/flight-item.css);
+@import url(./blocks/flight-item/__button/flight-item__button.css);
+@import url(./blocks/flight-item/__header/flight-item__header.css);
+@import url(./blocks/flight-item/__info/flight-item__info.css);
+@import url(./blocks/flight-item/__logo/flight-item__logo.css);
+@import url(./blocks/flight-item/__passenger/flight-item__passenger.css);
+@import url(./blocks/flight-item/__price/flight-item__price.css);
+
+@import url(./blocks/flight/flight.css);
+@import url(./blocks/flight/__airline/flight__airline.css);
+@import url(./blocks/flight/__destination/flight__destination.css);
+@import url(./blocks/flight/__duration-info/flight__duration-info.css);
+@import url(./blocks/flight/__time-icon/flight__time-icon.css);
+@import url(./blocks/flight/__duration/flight__duration.css);
+@import url(./blocks/flight/__time-info/flight__time-info.css);
+@import url(./blocks/flight/__time/flight__time.css);
+@import url(./blocks/flight/__transit/flight__transit.css);
+@import url(./blocks/flight/__date/flight__date.css);
+@import url(./blocks/flight/__code/flight__code.css);
+@import url(./blocks/flight/__line/flight__line.css);
+
+@import url(./blocks/more/more.css);
+@import url(./blocks/more/__button/more__button.css);

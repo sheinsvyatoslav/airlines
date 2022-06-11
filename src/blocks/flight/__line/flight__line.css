@@ -1,0 +1,6 @@
+.flight__line {
+  height: 1px; 
+  max-width: 561px;
+  background-color: #a2a2a2;
+  margin: 15px auto 20px;
+}
