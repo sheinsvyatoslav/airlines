@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9641c019.css",
+    "main.js": "/static/js/main.97757a4d.js",
+    "static/js/787.279c5e7a.chunk.js": "/static/js/787.279c5e7a.chunk.js",
+    "static/media/VerdanaPro-Bold.woff": "/static/media/VerdanaPro-Bold.7b7ac562c9e2b86e77ef.woff",
+    "static/media/VerdanaPro-Regular.woff": "/static/media/VerdanaPro-Regular.c5c1dfc43cb9ac01587f.woff",
+    "static/media/VerdanaPro-Bold.woff2": "/static/media/VerdanaPro-Bold.27de76e479d02b682c55.woff2",
+    "static/media/VerdanaPro-Regular.woff2": "/static/media/VerdanaPro-Regular.3cea41b6587f7b13ecf4.woff2",
+    "static/media/logo.png": "/static/media/logo.7d262cae4539500b0b03.png",
+    "static/media/time-icon.png": "/static/media/time-icon.45b0736b20ad251e6cdb.png",
+    "index.html": "/index.html",
+    "main.9641c019.css.map": "/static/css/main.9641c019.css.map",
+    "main.97757a4d.js.map": "/static/js/main.97757a4d.js.map",
+    "787.279c5e7a.chunk.js.map": "/static/js/787.279c5e7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9641c019.css",
+    "static/js/main.97757a4d.js"
+  ]
+}
