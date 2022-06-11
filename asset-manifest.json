@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/airlines-tickets/static/css/main.3b00a59d.css",
-    "main.js": "/airlines-tickets/static/js/main.4ec635cc.js",
+    "main.js": "/airlines-tickets/static/js/main.9c7a0a1e.js",
     "static/js/787.279c5e7a.chunk.js": "/airlines-tickets/static/js/787.279c5e7a.chunk.js",
     "static/media/VerdanaPro-Bold.woff": "/airlines-tickets/static/media/VerdanaPro-Bold.7b7ac562c9e2b86e77ef.woff",
     "static/media/VerdanaPro-Regular.woff": "/airlines-tickets/static/media/VerdanaPro-Regular.c5c1dfc43cb9ac01587f.woff",
@@ -11,11 +11,11 @@
     "static/media/time-icon.png": "/airlines-tickets/static/media/time-icon.45b0736b20ad251e6cdb.png",
     "index.html": "/airlines-tickets/index.html",
     "main.3b00a59d.css.map": "/airlines-tickets/static/css/main.3b00a59d.css.map",
-    "main.4ec635cc.js.map": "/airlines-tickets/static/js/main.4ec635cc.js.map",
+    "main.9c7a0a1e.js.map": "/airlines-tickets/static/js/main.9c7a0a1e.js.map",
     "787.279c5e7a.chunk.js.map": "/airlines-tickets/static/js/787.279c5e7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b00a59d.css",
-    "static/js/main.4ec635cc.js"
+    "static/js/main.9c7a0a1e.js"
   ]
 }
