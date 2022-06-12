@@ -10,7 +10,7 @@ export default function Sidebar(props) {
   const [checkedTransit, setCheckedTransit] = useState(false);
   const [checkedNoTransit, setCheckedNoTransit] = useState(false);
   const [values, setValues] = useState({});
-  const filtered = JSON.parse(localStorage.getItem('flights')).filter(item => (
+  const filtered = (JSON.parse(localStorage.getItem('flights'))).filter(item => (
     (!checkedNoTransit || filterNoTransit(item)) && 
     (!checkedTransit || filterTransit(item)) &&
     (!values.pricefrom || filterPriceFrom(item, values.pricefrom)) &&
@@ -62,7 +62,7 @@ export default function Sidebar(props) {
   }
 
   //фильтруем все
-  const filteredFlights = JSON.parse(localStorage.getItem('flights')).filter(item => (
+  const filteredFlights = (JSON.parse(localStorage.getItem('flights'))).filter(item => (
     (!checkedNoTransit || filterNoTransit(item)) && 
     (!checkedTransit || filterTransit(item)) &&
     (!values.pricefrom || filterPriceFrom(item, values.pricefrom)) &&
